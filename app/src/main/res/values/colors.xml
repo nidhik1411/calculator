@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="Achromatopsia">#acacac</color>
+    <color name="grayscale">#808080</color>
+    <color name="lightgray">#707070</color>
+    <color name="orange">#FFA500</color>
+    <color name="crystalblue">#68a0b0</color>
+    <color name="navyblue">#003366</color>
+</resources>
