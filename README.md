@@ -1,4 +1,4 @@
- ANDROID CALCULATOR APPLICATIOM:
+ ANDROID CALCULATOR APPLICATION:
  
  Overview
 This Android Calculator App provides a simple yet functional calculator interface that supports basic arithmetic operations. It features a clean design and functionality to perform addition, subtraction, multiplication, division, and modulo operations. The app also includes a history feature to keep track of past calculations.
